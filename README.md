@@ -34,7 +34,7 @@ class Mahesh extends FullStackDeveloper {
   ];
 
   getCurrentFocus(): string {
-    return "Scalable backends + AI Agents + Automation workflows";
+    return "Multi-agent AI systems + RL environments + Market intelligence platforms";
   }
 
   motto(): string {
@@ -82,6 +82,7 @@ class Mahesh extends FullStackDeveloper {
 
 ### 🤖 AI & Tooling
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -96,14 +97,14 @@ class Mahesh extends FullStackDeveloper {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2300030811&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=8)](https://github.com/2300030811)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2300030811&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=8&cache_seconds=86400)](https://github.com/2300030811)
 [![GitHub Streak](https://streak-stats.demolab.com?user=2300030811&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8)](https://github.com/2300030811)
 
 </div>
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2300030811&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8)](https://github.com/2300030811)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2300030811&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8&cache_seconds=86400)](https://github.com/2300030811)
 
 </div>
 
@@ -113,7 +114,7 @@ class Mahesh extends FullStackDeveloper {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=2300030811&theme=dracula&no-frame=false&no-bg=true&row=1&column=7)](https://github.com/2300030811)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=2300030811&theme=dracula&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/2300030811)
 
 </div>
 
@@ -123,7 +124,7 @@ class Mahesh extends FullStackDeveloper {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2300030811&radius=16&theme=dracula&area=true&hide_border=false)](https://github.com/2300030811)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2300030811&radius=16&theme=dracula&area=true&hide_border=false&custom_title=Mahesh's%20Contribution%20Activity)](https://github.com/2300030811)
 
 </div>
 
@@ -132,7 +133,7 @@ class Mahesh extends FullStackDeveloper {
 ## 🚀 What I'm Building
 
 ```
-🔭  Currently working on  →  Scalable backends + AI-powered automation workflows
+🔭  Currently working on  →  Multi-agent AI systems + RL environments + market intelligence
 🌱  Currently learning    →  System design, LLM orchestration, DevOps pipelines
 👯  Open to collaborate   →  Open-source, hackathons, startup MVPs
 💬  Ask me about          →  Full-stack dev, AI agents, CI/CD, backend systems
