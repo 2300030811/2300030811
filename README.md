@@ -11,7 +11,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🧑‍💻 About Me
 
@@ -43,73 +43,52 @@ class Mahesh extends FullStackDeveloper {
 }
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💬 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,kotlin,html,css,react,nextjs,tailwind,nodejs,express,fastapi,docker,git,linux,gcp,githubactions,postgres,mongodb,sqlite,redis,supabase,postman,vscode,figma&theme=dark" alt="Mahesh's Tech Stack" />
+</a>
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br/><br/>
 
-### 🔧 Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+#### 🤖 Specialized Frameworks & AI Stack
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🤖 AI & Tooling
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
+[![Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
+[![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/2300030811)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📊 GitHub Stats
+<details open>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> &ensp;<b>Stats Overview</b>
+  </summary>
 
-<!-- FIX: removed include_all_commits=true — it hits GitHub API rate limits and causes "Could not fetch total commits" error -->
-<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2300030811&show_icons=true&theme=dracula&count_private=true&hide_border=false&border_radius=8&cache_seconds=86400)](https://github.com/2300030811)
-[![GitHub Streak](https://streak-stats.demolab.com?user=2300030811&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8)](https://github.com/2300030811)
+  <div align="center">
+    <a href="https://github.com/2300030811">
+      <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2300030811&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="Most Used Languages" />
+    </a>
+    <a href="https://github.com/2300030811">
+      <img width="59%" src="https://github-readme-stats.vercel.app/api?username=2300030811&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&custom_title=Mahesh%20Sai%20Bhima's%20GitHub%20Stats" alt="Mahesh Sai Bhima's GitHub Stats" />
+    </a>
+    <br/>
+    <a href="https://github.com/2300030811">
+      <img src="https://streak-stats.demolab.com?user=2300030811&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    </a>
+  </div>
+</details>
 
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2300030811&layout=compact&langs_count=8&theme=dracula&hide_border=false&border_radius=8&cache_seconds=86400)](https://github.com/2300030811)
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🏆 GitHub Trophies
 
@@ -120,7 +99,7 @@ class Mahesh extends FullStackDeveloper {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📈 Contribution Activity
 
@@ -130,19 +109,23 @@ class Mahesh extends FullStackDeveloper {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🚀 What I'm Building
 
-```
-🔭  Currently working on  →  Multi-agent AI systems + RL environments + market intelligence
-🌱  Currently learning    →  System design, LLM orchestration, DevOps pipelines
-👯  Open to collaborate   →  Open-source, hackathons, startup MVPs
-💬  Ask me about          →  Full-stack dev, AI agents, CI/CD, backend systems
-⚡  Fun fact              →  I debug faster with lo-fi music on 🎵
-```
+<a href="https://github.com/2300030811" target="_blank">
+  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230" alt="Floating Octocat" />
+</a>
 
----
+- 🔭 **Currently working on:** Multi-agent AI systems + RL environments + market intelligence platforms
+- 🌱 **Currently learning:** System design, LLM orchestration, DevOps pipelines
+- 👯 **Open to collaborate:** Open-source AI tools, hackathons, and startup MVPs
+- 💬 **Ask me about:** Full-stack development, AI agents, CI/CD, and scalable backend architecture
+- ⚡ **Fun fact:** I debug twice as fast with lo-fi beats playing in the background 🎵
+
+<br clear="right" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛸 Featured Projects
 
@@ -239,7 +222,7 @@ class Mahesh extends FullStackDeveloper {
 
 > 📦 Explore all repositories at [github.com/2300030811](https://github.com/2300030811?tab=repositories)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 👾 Contribution Graph
 
@@ -251,7 +234,7 @@ class Mahesh extends FullStackDeveloper {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/2300030811/2300030811/output/pacman-contribution-graph.svg">
 </picture>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🤝 Connect With Me
 
@@ -271,7 +254,7 @@ class Mahesh extends FullStackDeveloper {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
