@@ -127,13 +127,11 @@ class Mahesh extends FullStackDeveloper {
 
 ### 🎵 [Vynce](https://github.com/2300030811/Vynce)
 
-> The ultimate premium Music Experience for Android — high-performance Material 3 music player streaming 100M+ tracks at 320kbps with lossless caching, listening DNA insights, synced lyrics, and Android Auto.
+<a href="https://github.com/2300030811/Vynce">
+  <img align="right" src="./favicon.svg" width="80" height="80" alt="Vynce Logo" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/2300030811/Vynce">
-    <img src="https://raw.githubusercontent.com/2300030811/Vynce/main/assets/banner.png" width="100%" alt="Vynce Banner" />
-  </a>
-</p>
+> The ultimate premium Music Experience for Android — high-performance Material 3 music player streaming 100M+ tracks at 320kbps with lossless caching, listening DNA insights, synced lyrics, and Android Auto.
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/2300030811/Vynce)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)](https://github.com/2300030811/Vynce)
@@ -143,6 +141,8 @@ class Mahesh extends FullStackDeveloper {
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Stars](https://img.shields.io/github/stars/2300030811/Vynce?style=flat-square&color=yellow)](https://github.com/2300030811/Vynce/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/2300030811/Vynce?style=flat-square)](https://github.com/2300030811/Vynce)
+
+<br clear="right" />
 
 **What it does:** Material 3-based Android music player for audiophiles. Features 320kbps high-res streaming from JioSaavn with lossless caching, Spotify playlist discovery, Shazam-style recognition, native interactive home-screen widget, synchronized lyrics (LRC/TTML), full Android Auto support, and deep Listening DNA analytics.  
 **Tech used:** `Kotlin` `Jetpack Compose` `Media3 & ExoPlayer` `Room` `OkHttp & Retrofit` `Hilt`
