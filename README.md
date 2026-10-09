@@ -125,6 +125,30 @@ class Mahesh extends FullStackDeveloper {
 
 ---
 
+### 🎵 [Vynce](https://github.com/2300030811/Vynce)
+
+> The ultimate premium Music Experience for Android — high-performance Material 3 music player streaming 100M+ tracks at 320kbps with lossless caching, listening DNA insights, synced lyrics, and Android Auto.
+
+<p align="center">
+  <a href="https://github.com/2300030811/Vynce">
+    <img src="https://raw.githubusercontent.com/2300030811/Vynce/main/assets/banner.png" width="100%" alt="Vynce Banner" />
+  </a>
+</p>
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://github.com/2300030811/Vynce)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white)](https://github.com/2300030811/Vynce)
+[![Media3 ExoPlayer](https://img.shields.io/badge/Media3_ExoPlayer-E53935?style=flat-square&logo=googleplay&logoColor=white)](https://github.com/2300030811/Vynce)
+[![Room DB](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/2300030811/Vynce)
+[![Latest Release](https://img.shields.io/github/v/release/2300030811/Vynce?style=flat-square&color=8A2BE2)](https://github.com/2300030811/Vynce/releases/latest)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
+[![Stars](https://img.shields.io/github/stars/2300030811/Vynce?style=flat-square&color=yellow)](https://github.com/2300030811/Vynce/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/2300030811/Vynce?style=flat-square)](https://github.com/2300030811/Vynce)
+
+**What it does:** Material 3-based Android music player for audiophiles. Features 320kbps high-res streaming from JioSaavn with lossless caching, Spotify playlist discovery, Shazam-style recognition, native interactive home-screen widget, synchronized lyrics (LRC/TTML), full Android Auto support, and deep Listening DNA analytics.  
+**Tech used:** `Kotlin` `Jetpack Compose` `Media3 & ExoPlayer` `Room` `OkHttp & Retrofit` `Hilt`
+
+---
+
 ### 🔥 [FailSense](https://github.com/2300030811/FailSense)
 
 > OpenEnv-compatible RL environment where AI agents learn to triage production incidents across a realistic 17-service e-commerce microservices architecture.
@@ -194,6 +218,7 @@ class Mahesh extends FullStackDeveloper {
 | Repository | Description | Language | Stars |
 |:---|:---|:---|:---:|
 | [mockmate](https://github.com/2300030811/mockmate) | AI-powered career platform — interviews, ATS scoring & ranked technical combat | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [![Stars](https://img.shields.io/github/stars/2300030811/mockmate?style=flat-square&color=yellow)](https://github.com/2300030811/mockmate) |
+| [Vynce](https://github.com/2300030811/Vynce) | Ultimate premium Music Experience for Android — 320kbps streaming & Material 3 | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | [![Stars](https://img.shields.io/github/stars/2300030811/Vynce?style=flat-square&color=yellow)](https://github.com/2300030811/Vynce) |
 | [FailSense](https://github.com/2300030811/FailSense) | OpenEnv RL environment for production incident triage across 17 microservices | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Stars](https://img.shields.io/github/stars/2300030811/FailSense?style=flat-square&color=yellow)](https://github.com/2300030811/FailSense) |
 | [Sentinel-AI](https://github.com/2300030811/Sentinel-AI) | Real-time anomaly detection engine with 3-agent RAG swarm on Kafka streams | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Stars](https://img.shields.io/github/stars/2300030811/sentinel-ai?style=flat-square&color=yellow)](https://github.com/2300030811/sentinel-ai) |
 | [QueryMind](https://github.com/2300030811/QueryMind) | PPO RL agent optimizing PostgreSQL query plans — up to 9.4x speedup on TPC-H | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Stars](https://img.shields.io/github/stars/2300030811/QueryMind?style=flat-square&color=yellow)](https://github.com/2300030811/QueryMind) |
