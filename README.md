@@ -90,27 +90,6 @@ class Mahesh extends FullStackDeveloper {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🏆 GitHub Trophies
-
-<!-- FIX: column=6 (was 7), no-frame=true, &v=2 forces GitHub CDN cache to refresh -->
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=2300030811&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&v=2)](https://github.com/2300030811)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2300030811&radius=16&theme=dracula&area=true&hide_border=false&custom_title=Mahesh's%20Contribution%20Activity)](https://github.com/2300030811)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## 🚀 What I'm Building
 
 <a href="https://github.com/2300030811" target="_blank">
